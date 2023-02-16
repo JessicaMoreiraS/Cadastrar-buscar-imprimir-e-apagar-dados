@@ -153,7 +153,7 @@ function acessarAdministrador(){
         content: {
             element: "input",
             attributes: {
-              placeholder: "Type your password",
+              placeholder: "A senha pré cadastrada é 963",
               type: "password",
             },
           },
