@@ -1,6 +1,7 @@
 # Cadastrar-buscar-imprimir-e-apagar-dados
-<p>Formularios para cadastro de pessoas/funcionarios, com impressão das informações e visão geral dos dados</p>
+<p>Formularios para cadastro de pessoas/funcionarios, com sistema de busca das informações, também é possivel fazer a deleção dos dados</p>
 <p>Com utilização de JSON</p>
+<p>A senha para acesso de administrador é "963", o acesso resulta na exibição de um resulmo dos dados cadastrados</p>
 <br>
 <div align="center">
   <h2>Acesse: https://jessicamoreiras.github.io/Cadastrar-buscar-imprimir-e-apagar-dados/</h2>
